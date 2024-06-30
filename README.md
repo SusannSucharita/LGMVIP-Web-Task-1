@@ -14,18 +14,6 @@ This is a simple To-Do List WebApp created as part of the LetGrowMore Web Develo
 - CSS
 - JavaScript
 
-## Installation
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/todo-list-webapp.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd todo-list-webapp
-    ```
-3. Open `index.html` in your web browser.
 
 ## Usage
 1. Enter a task title in the input field.
@@ -33,9 +21,6 @@ To run this project locally, follow these steps:
 3. Click the ✓ button to mark a task as completed.
 4. Click the X button to delete a task from the list.
 
-## Live Demo
-You can view the live demo of the To-Do List WebApp hosted on GitHub Pages:
-[Live Demo](https://SusannSucharita.github.io/todo-list-webapp/)
 
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or create a pull request.
